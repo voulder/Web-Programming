@@ -1,4 +1,2 @@
-#username
-voulder
-#NIM
-535210010
+USERNAME : voulder
+NIM      : 535210010
